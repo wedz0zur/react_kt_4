@@ -1,0 +1,15 @@
+.product-list {
+  width: 70%;
+  margin: 0 auto;
+  border: solid black 2px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  padding: 16px;
+}
+
+.product-link {
+  border: 1px solid #ccc;
+  width: 400px;
+  text-decoration: none;
+}

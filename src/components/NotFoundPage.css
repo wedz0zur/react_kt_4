@@ -1,0 +1,19 @@
+.not-found {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.back-to-products {
+  margin-top: 16px;
+  padding: 8px 16px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.back-to-products:hover {
+  background-color: #c0392b;
+}
